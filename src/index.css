@@ -1,0 +1,14 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Inter, 'Noto Sans TC', 'sans-serif';
+  background-color: #202731;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
